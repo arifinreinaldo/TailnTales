@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TailnTales</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_appointment">Appointment</string>
+    <string name="menu_conversation">Conversations</string>
+    <string name="menu_profile">Profile</string>
+
+
+    <string name="msg_morning">Good Morning,</string>
+    <string name="msg_hello">Hello,</string>
+    <string name="msg_profile">Profile</string>
+    <string name="msg_afternoon">Good Afternoon,</string>
+    <string name="msg_evening">Good Evening,</string>
+    <string name="msg_night">Good Night,</string>
 </resources>
